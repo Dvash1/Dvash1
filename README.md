@@ -10,7 +10,7 @@
 
 -----
 <div align="center">
-  You can reach me at:
+  <h2>You can reach me at:</h2> 
 </div>
 <p align="center">
   <br/>
