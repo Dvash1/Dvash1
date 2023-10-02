@@ -19,6 +19,9 @@
   <a href="mailto:danielvash123@gmail.com" target="_blank"><img align="center"
      src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
     height="30"/></a>
+
+![](https://dcbadge.vercel.app/api/shield/134281822040358912)
+  
 </p>
 
 
