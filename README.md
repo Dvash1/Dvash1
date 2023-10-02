@@ -1,11 +1,10 @@
 <div align="center">
-<h1 align="center">Hello <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Daniel</h1>
+<h1 align="center">Hello, I'm Daniel</h1>
 </div>
 
 <div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
+       alt="snake" />
 </div>
 
 -----
